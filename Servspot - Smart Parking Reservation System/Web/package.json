@@ -1,0 +1,29 @@
+{
+  "name": "servspot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.8",
+    "@mui/icons-material": "^5.15.3",
+    "@mui/material": "^5.15.3",
+    "axios": "^1.6.5",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "serialport": "^12.0.0",
+    "websocket": "^1.0.34",
+    "ws": "^8.16.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4"
+  }
+}
